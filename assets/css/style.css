@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: #444444;
   background-color: black;
 }
@@ -35,8 +35,23 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
+h1 .texto{  
+  color:#2a2af0;
+  background: none;
+  font-weight: bold; 
+
+
+
+}
+
 /*--------------------------------------------------------------
 # Back to top button
+
+
+background: none;
+  color: #0c0ca8;
+  font-weight: bold; 
 --------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
