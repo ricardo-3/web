@@ -37,12 +37,16 @@ h6 {
 
 
 h1 .texto{  
-  color:#2a2af0;
+  color: #5a5af3;
   background: none;
   font-weight: bold; 
 
 
 
+}
+
+.cambios ul .text1{
+  color: #5a5af3;
 }
 
 /*--------------------------------------------------------------
@@ -172,7 +176,8 @@ background: none;
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #5a5af3;
+  color: black;
+  font-weight: bold;
 }
 
 .navbar .getstarted,
