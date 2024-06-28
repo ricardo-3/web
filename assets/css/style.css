@@ -375,12 +375,11 @@ background: none;
 #hero {
   width: 100%;
   height: 100vh;
-  background: "#191825";
-  border-bottom: 2px solid white;
+  background: "#191825"; 
 }
 
 #hero .container {
-  padding-top: 80px;
+  padding-top: 120px;
 }
 
 #hero h1 {
